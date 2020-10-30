@@ -20,12 +20,12 @@ tokenColors:
 # Generic <keyword> matches
 - scope: keyword
   settings:
-    foreground: _pink
+    foreground: _blue
 # 1. Language features like: import, return, if, else
 # 2. `new` keyword
 - scope: keyword.control, keyword.operator.new
   settings:
-    foreground: _pink
+    foreground: _blue
 
 # Make operators light gray by default
 - scope: keyword.operator
@@ -46,7 +46,7 @@ tokenColors:
 # Generic <storage> matches
 - scope: storage
   settings:
-    foreground: _orange
+    foreground: _blue
 
 # -----------------------------------------------------------------------------
 # Constants
@@ -114,7 +114,7 @@ tokenColors:
 # Generic string match
 - scope: string
   settings:
-    foreground: _green
+    foreground: _purple
 
 # -----------------------------------------------------------------------------
 # Punctuation
