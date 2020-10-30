@@ -23,6 +23,7 @@ base.tokenColors = base.tokenColors.concat(
   template,
   markdown,
   js,
+  jsx,
   html,
   css,
   regex,
