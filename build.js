@@ -38,7 +38,7 @@ for (let color in themeColors) {
 
 // Base file has been extended with additional theme styles and color variables have
 // been replaced with Panda theme values. Write to /dist for consumption.
-writeFile("dist/Panda.json", base, err => {
+writeFile("dist/Framer.json", base, err => {
   if (err) {
     console.warn(err);
   }

@@ -1,9 +1,9 @@
 {
-  "name": "theme-panda-voodoo",
-  "displayName": "Panda Theme Voodoo",
-  "description": "Panda Theme for Visual Studio Code.",
+  "name": "theme-framer-voodoo",
+  "displayName": "Framer Theme Voodoo",
+  "description": "Framer Syntax Theme for Visual Studio Code.",
   "version": "1.2.0",
-  "publisher": "tinkertrain",
+  "publisher": "xvoodooxl",
   "engines": {
     "vscode": "^1.20.0"
   },
@@ -14,21 +14,21 @@
     "Themes"
   ],
   "icon": "assets/panda.png",
-  "homepage": "https://github.com/tinkertrain/panda-syntax-vscode",
+  "homepage": "https://github.com/xvoodooxl/voodoo-vscode-framer",
   "galleryBanner": {
-    "color": "#2a2c2d",
+    "color": "#181818",
     "theme": "dark"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tinkertrain/panda-syntax-vscode"
+    "url": "https://github.com/xvoodooxl/voodoo-vscode-framer"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Panda Syntax Voodoo",
+        "label": "Framer Syntax Voodoo",
         "uiTheme": "vs-dark",
-        "path": "./dist/Panda.json"
+        "path": "./dist/Framer.json"
       }
     ]
   },
