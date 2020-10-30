@@ -15,13 +15,13 @@
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#EDACFD"
+        "foreground": "#00BBFF"
       }
     },
     {
       "scope": "keyword.control, keyword.operator.new",
       "settings": {
-        "foreground": "#EDACFD"
+        "foreground": "#00BBFF"
       }
     },
     {
@@ -45,7 +45,7 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#FECb6e"
+        "foreground": "#00BBFF"
       }
     },
     {
@@ -111,7 +111,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#19f9d8"
+        "foreground": "#BA8CFC"
       }
     },
     {
