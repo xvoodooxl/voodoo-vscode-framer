@@ -7,11 +7,11 @@
 
 - scope: keyword.control.as.js
   settings:
-    foreground: _light-pink
+    foreground: _blue
 
 - scope: keyword.control.from.js
   settings:
-    foreground: _light-pink
+    foreground: _blue
 
 - scope: keyword.control.export.js
   settings:
@@ -28,17 +28,6 @@
 # - scope: variable.other.readwrite.alias.js.jsx
 #   settings:
 #     foreground: _contrast-gray
-
-# -----------------------------------------------------------------------------
-# JSX
-# -----------------------------------------------------------------------------
-- scope: entity.name.tag.js, support.class.component.js
-  settings:
-    foreground: _green
-
-- scope: variable.language.super.js
-  settings:
-    foreground: _blue
 
 # My customizations
 

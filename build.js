@@ -10,6 +10,7 @@ const workbench = yaml.safeLoad(readFileSync("themes/workbench.yaml", "utf-8"));
 const template = yaml.safeLoad(readFileSync("themes/template.yaml", "utf-8"));
 const markdown = yaml.safeLoad(readFileSync("themes/markdown.yaml", "utf-8"));
 const js = yaml.safeLoad(readFileSync("themes/js.yaml", "utf-8"));
+const jsx = yaml.safeLoad(readFileSync("themes/jsx.yaml", "utf-8"));
 const html = yaml.safeLoad(readFileSync("themes/html.yaml", "utf-8"));
 const css = yaml.safeLoad(readFileSync("themes/css.yaml", "utf-8"));
 const regex = yaml.safeLoad(readFileSync("themes/regex.yaml", "utf-8"));

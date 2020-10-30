@@ -267,25 +267,6 @@
       }
     },
     {
-      "scope": "support.class.component",
-      "settings": {
-        "foreground": "#EDACFD",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "meta.tag.js entity.name.tag",
-      "settings": {
-        "foreground": "#FECb6e"
-      }
-    },
-    {
-      "scope": "entity.other.attribute-name",
-      "settings": {
-        "foreground": "#FECb6e"
-      }
-    },
-    {
       "scope": "markup.bold",
       "settings": {
         "foreground": "#FECb6e",
@@ -404,13 +385,13 @@
     {
       "scope": "keyword.control.as.js",
       "settings": {
-        "foreground": "#EDACFD"
+        "foreground": "#00BBFF"
       }
     },
     {
       "scope": "keyword.control.from.js",
       "settings": {
-        "foreground": "#EDACFD"
+        "foreground": "#00BBFF"
       }
     },
     {
@@ -429,18 +410,6 @@
       "scope": "support.class.console.js",
       "settings": {
         "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "entity.name.tag.js, support.class.component.js",
-      "settings": {
-        "foreground": "#19f9d8"
-      }
-    },
-    {
-      "scope": "variable.language.super.js",
-      "settings": {
-        "foreground": "#00BBFF"
       }
     },
     {

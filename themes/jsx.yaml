@@ -1,0 +1,27 @@
+$schema: vscode://schemas/color-theme
+author: Siamak Mokhtari, Extended by Dan Hedgecock
+name: Panda Syntax – Beta
+colorSpaceName: sRGB
+semanticClass: theme.dark.sublime_panda_syntax
+tokenColors:
+
+# -----------------------------------------------------------------------------
+# JSX
+# -----------------------------------------------------------------------------
+- scope: entity.name.tag.js, support.class.component.js
+  settings:
+    foreground: _orange
+    fontStyle: italic
+
+- scope: variable.language.super.js
+  settings:
+    foreground: _blue
+
+# HTML tag names
+- scope: meta.tag.js entity.name.tag
+  settings:
+    foreground: _light-orange
+# HTML and Component attribute's name
+- scope: entity.other.attribute-name
+  settings:
+    foreground: _light-blue
