@@ -431,6 +431,40 @@
       }
     },
     {
+      "$schema": "vscode://schemas/color-theme",
+      "author": "Siamak Mokhtari, Extended by Dan Hedgecock",
+      "name": "Panda Syntax – Beta",
+      "colorSpaceName": "sRGB",
+      "semanticClass": "theme.dark.sublime_panda_syntax",
+      "tokenColors": [
+        {
+          "scope": "entity.name.tag.js, support.class.component.js",
+          "settings": {
+            "foreground": "#FECb6e",
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": "variable.language.super.js",
+          "settings": {
+            "foreground": "#00BBFF"
+          }
+        },
+        {
+          "scope": "meta.tag.js entity.name.tag",
+          "settings": {
+            "foreground": "#FECb6e"
+          }
+        },
+        {
+          "scope": "entity.other.attribute-name",
+          "settings": {
+            "foreground": "#AACDFD"
+          }
+        }
+      ]
+    },
+    {
       "scope": "meta.tag.structure.any.html, meta.tag.other.html, entity.name.tag.html, meta.tag.metadata.script.html, entity.name.tag.jade",
       "settings": {
         "foreground": "#FD5779"
